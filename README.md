@@ -1,1 +1,1 @@
-# app-sync-chat-app
+# Cognito Demonstration
